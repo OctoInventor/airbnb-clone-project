@@ -13,7 +13,7 @@ spaces
 
 - Global Reach: Increasing the number of listing and guest globally
 
--Sustainability: Promiting sustainable travel and supporting local communities 
+-Sustainability: Promoting sustainable travel and supporting local communities 
 
 # Tech Stack
 
@@ -127,6 +127,37 @@ Speed: Efficient design allows users to complete bookings swiftly, enhancing the
 Future-Readiness: A well-crafted user interface can adapt and grow to accommodate new features and increasing user volumes, 
 ensuring long-term efficiency and effectiveness.
 
+
+# Color Styles
+
+- Navy Blue (#000080)
+
+- Sky Blue (#87CEEB)
+
+- Royal Blue (#4169E1)
+
+
+# Font Family
+
+- Roboto.
+
+- Open Sans.
+
+- Lato.
+
+
+# Font Weight
+
+- Regular (400): For body text, ensuring readability.
+
+- Bold (700): For headings and important elements to create emphasis.
+
+
+# Font Size
+
+- Body Text: 16px for optimal readability on screens.
+
+- Headings: 24px for H1, 20px for H2, and 18px for H3, with each level decreasing slightly in size.
 
 
 
