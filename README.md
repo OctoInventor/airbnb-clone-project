@@ -13,7 +13,7 @@ spaces
 
 - Global Reach: Increasing the number of listing and guest globally
 
--Sustainability: Promoting sustainable travel and supporting local communities 
+- Sustainability: Promoting sustainable travel and supporting local communities 
 
 # Tech Stack
 
@@ -160,5 +160,45 @@ ensuring long-term efficiency and effectiveness.
 - Headings: 24px for H1, 20px for H2, and 18px for H3, with each level decreasing slightly in size.
 
 
+# Visual Consistency
+
+Unified Design Language: Maintains a consistent visual language across all design elements, creating a cohesive and professional interface.
+
+Branding: Preserves brand identity by consistently applying brand colors, fonts, and styles across various screens and devices.
+
+
+# User Experience (UX)
+
+Usability: Ensures that the mockup is user-friendly and intuitive by defining design properties that support straightforward navigation.
+
+Accessibility: Guarantees that the design is inclusive and accessible to all users, including those with disabilities, by adhering to accessibility standards.
+
+
+# Development Guidance
+
+Clear Specifications: Offers developers detailed guidance on the appearance and behavior of each element, reducing ambiguity and streamlining development.
+
+Efficiency: Speeds up development by providing precise design instructions, minimizing the need for extensive communication between designers and developers.
+
+
+# Feedback and Iteration
+
+Early Testing: Allows for design testing with stakeholders and users before development, enabling feedback and improvements at an early stage.
+
+Problem Identification: Aids in identifying usability issues and design flaws early on, facilitating timely corrections and enhancements.
+
+
+# Communication
+
+Stakeholder Alignment: Ensures all stakeholders share a clear understanding of the design vision.
+
+Collaboration: Enhances communication and teamwork among designers, developers, and team members by establishing a common reference point.
+
+
+# Quality Assurance
+
+Consistency Checks: Enables QA teams to verify the final product against design specifications for compliance with requirements.
+
+Bug Identification: Helps in early detection of visual and functional discrepancies, promoting a smoother development process and higher efficiency.
 
 
