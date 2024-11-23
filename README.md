@@ -202,3 +202,66 @@ Consistency Checks: Enables QA teams to verify the final product against design 
 Bug Identification: Helps in early detection of visual and functional discrepancies, promoting a smoother development process and higher efficiency.
 
 
+# Project Roles and Responsibilities
+
+# Project Manager
+
+Description: Leads the project from start to finish.
+Responsibilities: Plans, executes, and closes projects; manages the project team; defines project scope, goals,
+and deliverables; tracks progress; ensures project adherence to schedule and budget; communicates with stakeholders.
+
+
+# Frontend Developers
+
+Description: Concentrate on the application's user interface and experience.
+Responsibilities: Develop responsive and interactive web interfaces; implement designs using HTML, CSS, 
+and JavaScript frameworks (e.g., React, Angular); optimize performance; ensure cross-browser compatibility; 
+collaborate with designers for a user-friendly experience.
+
+
+# Backend Developers
+
+Description: Manage server-side logic and database operations.
+Responsibilities: Develop and maintain server-side application logic; integrate frontend components with 
+server-side logic; manage databases and data integrity; implement APIs and web services; 
+optimize server performance; ensure security and scalability.
+
+
+# Designers
+
+Description: Design the visual and interactive elements of the application.
+Responsibilities: Design user interface (UI) and user experience (UX); create wireframes, mockups, 
+and prototypes; ensure a cohesive and visually appealing design; 
+conduct user research and usability testing; collaborate with developers for design implementation.
+
+
+# QA/Testers
+
+Description: Ensure application quality and functionality.
+Responsibilities: Create and execute test plans and cases; identify, document, and track bugs; 
+perform manual and automated testing; ensure application compliance with requirements and standards; 
+work with developers to address issues; conduct regression testing.
+
+
+# DevOps Engineers
+
+Description: Bridge development and operations.
+Responsibilities: Automate and enhance development and deployment processes; manage CI/CD pipelines; 
+ensure application reliability and performance; monitor systems; 
+handle infrastructure as code; implement security best practices.
+
+
+# Product Owner
+
+Description: Represents stakeholders and customers.
+Responsibilities: Define product vision and roadmap; prioritize features and backlog items;
+ensure team comprehension of product goals; make decisions on scope and requirements; 
+act as primary stakeholder contact; ensure product value delivery.
+
+
+# Scrum Master
+
+Description: Facilitates Scrum process and Agile practices adherence.
+Responsibilities: Coach team on Scrum practices; facilitate Scrum ceremonies 
+(e.g., sprint planning, daily stand-ups, sprint reviews, retrospectives); remove impediments; 
+ensure shield team from distractions; ensure continual improvement; foster collaborative team environment.
