@@ -269,7 +269,7 @@ ensure shield team from distractions; ensure continual improvement; foster colla
 
 
 
-# UI Components Patterns
+# UI Component Patterns
 
 
 # Navigation Bar
