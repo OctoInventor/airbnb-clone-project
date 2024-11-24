@@ -265,3 +265,46 @@ Description: Facilitates Scrum process and Agile practices adherence.
 Responsibilities: Coach team on Scrum practices; facilitate Scrum ceremonies 
 (e.g., sprint planning, daily stand-ups, sprint reviews, retrospectives); remove impediments; 
 ensure shield team from distractions; ensure continual improvement; foster collaborative team environment.
+
+
+
+
+# UI Components Patterns
+
+
+# Navigation Bar
+
+DescriptionThe Navigation Bar is the Top bar which provides links to users and options to navigate the website.
+Features:
+- Logo: displays the company logo.
+- Navigation links: allows users to navigate between different sections of the website.
+- Search bar: enables users to search for specific content or information such as properties.
+- User profile: provides dropdown menu access to user-specific features and actions.
+- Language selector: allows users to switch between different languages.
+
+# Hero Section
+
+Description: This section showcases featured properties and provides a clear call-to-action for users to book a stay.
+Features:
+- Hero image: visually appealing background image showcasing the property or location.
+- Call-to-action button: encourages users to take the desired action, such as booking a stay or exploring more properties.
+
+
+# Property Cards Section
+
+Description: This section displays the properties available  and information about each property.
+Features:
+- Property cards: display property information such as name, location, price, and availability.
+- Filters: allows users to filter the properties based on location, price range, and other criteria.
+- Sort options: allows users to sort the properties based on price, location, or other criteria.
+
+
+# Footer Section
+
+Description: This section contains information about the company, contact details, social media links, and legal information.
+Features:
+- Company name: displays the name of the company.
+- Contact information: provides contact details such as address, phone number, email, and social media links.
+- Legal information: displays legal information such as privacy policy, terms of use, and copyright information.
+
+These UI components create a visually appealing and user-friendly interface for users to explore and book accommodations.
